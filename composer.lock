@@ -2058,16 +2058,16 @@
         },
         {
             "name": "eluceo/ical",
-            "version": "2.1.0",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/markuspoerschke/iCal.git",
-                "reference": "12ace1ca2a88911f5c74dbde7e75eb8e1676da6c"
+                "reference": "84bba8f438a2746a88057ad13032d71e8f9c4104"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/markuspoerschke/iCal/zipball/12ace1ca2a88911f5c74dbde7e75eb8e1676da6c",
-                "reference": "12ace1ca2a88911f5c74dbde7e75eb8e1676da6c",
+                "url": "https://api.github.com/repos/markuspoerschke/iCal/zipball/84bba8f438a2746a88057ad13032d71e8f9c4104",
+                "reference": "84bba8f438a2746a88057ad13032d71e8f9c4104",
                 "shasum": ""
             },
             "require": {
@@ -2082,7 +2082,7 @@
                 "ergebnis/composer-normalize": "^2.8",
                 "friendsofphp/php-cs-fixer": "^2.16",
                 "infection/infection": "^0.20.1 || ^0.21.0",
-                "phpmd/phpmd": "~2.9.1",
+                "phpmd/phpmd": "~2.9.1 || ~2.10.0",
                 "phpunit/phpunit": "^9",
                 "vimeo/psalm": "^4.4.1"
             },
@@ -2113,10 +2113,12 @@
                 "php calendar"
             ],
             "support": {
+                "docs": "https://ical.poerschke.nrw",
+                "forum": "https://github.com/markuspoerschke/iCal/discussions",
                 "issues": "https://github.com/markuspoerschke/iCal/issues",
                 "source": "https://github.com/markuspoerschke/iCal"
             },
-            "time": "2021-04-22T06:27:37+00:00"
+            "time": "2021-05-03T12:29:28+00:00"
         },
         {
             "name": "exercise/htmlpurifier-bundle",
